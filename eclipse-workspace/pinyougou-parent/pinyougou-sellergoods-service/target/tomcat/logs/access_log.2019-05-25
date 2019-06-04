@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [25/May/2019:08:31:17 +0800] "GET /admin/brand.html HTTP/1.1" 404 983 http-bio-9001-exec-1 27
+0:0:0:0:0:0:0:1 - - [25/May/2019:08:31:17 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9001-exec-3 1

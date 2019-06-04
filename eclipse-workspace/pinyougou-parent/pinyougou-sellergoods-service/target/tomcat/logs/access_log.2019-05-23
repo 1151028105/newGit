@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [23/May/2019:16:31:38 +0800] "GET / HTTP/1.1" 404 951 http-bio-9001-exec-1 45
+0:0:0:0:0:0:0:1 - - [23/May/2019:16:31:38 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9001-exec-3 1
+0:0:0:0:0:0:0:1 - - [23/May/2019:16:31:51 +0800] "GET /brand/findAll HTTP/1.1" 404 977 http-bio-9001-exec-4 1
+0:0:0:0:0:0:0:1 - - [23/May/2019:16:31:54 +0800] "GET /brand/findAll HTTP/1.1" 404 977 http-bio-9001-exec-5 0
+0:0:0:0:0:0:0:1 - - [23/May/2019:16:32:03 +0800] "GET /brand/findAll.do HTTP/1.1" 404 983 http-bio-9001-exec-7 1
+0:0:0:0:0:0:0:1 - - [23/May/2019:16:33:03 +0800] "GET /brand/findAll HTTP/1.1" 404 977 http-bio-9001-exec-10 2
